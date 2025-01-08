@@ -6,11 +6,24 @@ You will first learn how the game works and create a dummy functional agent for 
 Key Features:
 
 Custom Environment: A custom environment built using Kaggle's Connect X API, enabling seamless interaction with the game.
+
+
+
 Agent Design: Implementation of various RL algorithms such as Q-Learning, Deep Q-Networks (DQN), or Actor-Critic methods for strategic gameplay.
+
+
 State Representation: Efficient encoding of game states for better decision-making.
+
+
 Training Pipeline: A scalable training pipeline for model improvement and testing against baseline agents.
+
+
 Evaluation: Performance metrics and comparisons against other agents in simulated matches.
+
+
 Visualization: Tools to visualize gameplay and analyze the agent’s decision-making process.
+
+
 This project demonstrates the power of reinforcement learning in board games and serves as a resource for those looking to build and optimize RL agents.
 
 Feel free to contribute by adding enhancements, fixing bugs, or improving performance.
